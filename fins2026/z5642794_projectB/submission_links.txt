@@ -1,0 +1,5 @@
+Live Streamlit app URL:
+https://fins-agent-ggjufmdt8vamwscflupaw8.streamlit.app/
+
+Public GitHub repository URL:
+https://github.com/tianxiang-feng/fins-agent/tree/main/fins2026/z5642794_projectB
